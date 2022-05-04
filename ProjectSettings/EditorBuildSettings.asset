@@ -4,5 +4,8 @@
 EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
-  m_Scenes: []
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/nyblock.unity
+    guid: 2c71692fd8a90464a928218f6ec32f62
   m_configObjects: {}

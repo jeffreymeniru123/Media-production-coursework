@@ -33,5 +33,10 @@ public class FistPop : MonoBehaviour
    
 
         }
+
+
+        if(Input.GetKeyDown(KeyCode.Escape)){
+                Application.Quit();
+        }
     }
 }
